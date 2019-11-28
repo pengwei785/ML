@@ -1,3 +1,2 @@
-# ML
-# vscode-demo
+# This is my Machine Learning Notebook
 
